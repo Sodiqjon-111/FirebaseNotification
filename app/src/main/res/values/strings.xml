@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notification</string>
+
+    <string name="retrieve_token">Retrieve Token</string>
+    <string name="notification_message">Notification message</string>
+    <string name="do_something">We are going to do something!</string>
+</resources>
